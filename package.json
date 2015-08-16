@@ -1,0 +1,43 @@
+{
+  "name": "css-reset",
+  "version": "1.0.0",
+  "description": "This css reset aims to strike a balance between the use of a reset stylesheet and the alternative idea of normalizing browser styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/60frames/css-reset.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "normalize"
+  ],
+  "author": {
+    "name": "60frames",
+    "email": "devs@60fram.es",
+    "url": "http://60fram.es"
+  },
+  "contributors": [
+    {
+      "name": "Matt Derrick",
+      "email": "matt@60fram.es",
+      "url": "http://mattderrick.co.uk"
+    },
+    {
+      "name": "Richard Scarrott",
+      "email": "rich@60fram.es"
+    },
+    {
+      "name": "Albert Kang",
+      "email": "albert@60fram.es"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/60frames/css-reset/issues"
+  },
+  "homepage": "https://github.com/60frames/css-reset#readme"
+}
